@@ -14,7 +14,6 @@ Mon but serait de créer un jeu video en ayant comprit entièrement les méthode
 
 ![photo](/exercise01/Photos/codes_preview_7a1b.png)
 
-Voici un exemple de jeu que je voudrais créer:
-
 ## Ce qui m'a plus en TIM
+
  Ce qui ma plus dans le programme TIM est la diversiter qu'il y a en multimédia. Par exemple, jeux vidéo, photographie, installation intéractive etc. 
