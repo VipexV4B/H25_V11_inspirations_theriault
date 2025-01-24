@@ -12,7 +12,7 @@ Photo de moi durant un cours de photographie TIM
 Mon intérêt en multimédia est principalement sur le code. Par exemple, le jeu video, page web etc. J'ai toujours eu un intérêt pour tout ce qui était informatique et jeux vidéo.
 Mon but serait de créer un jeu video en ayant comprit entièrement les méthodes pour pouvoir le créer avec faciliter.
 
-![photo](/exercise01/Photos/code_preview_7a1b.png)
+![photo](/exercise01/Photos/codes_preview_7a1b.png)
 
 Voici un exemple de jeu que je voudrais créer:
 
