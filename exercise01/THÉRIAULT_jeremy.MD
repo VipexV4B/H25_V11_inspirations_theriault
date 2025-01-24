@@ -1,6 +1,7 @@
 # Jérémy Thériault
 
 ![photo](/exercise01/Photos/photo_moi.jpg)
+
 Photo de moi durant un cours de photographie TIM
 
 
