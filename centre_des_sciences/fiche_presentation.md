@@ -1,15 +1,15 @@
-#Le banquet
+# Le banquet
 
 ![photo]()
 
-##Centre des sciences
+## Centre des sciences
 
 ![photo]()
 
 Cette exposition est temporaire.
 J'ai pu visité cette exposition le 2025/01/31
 
-##Les codes de la table
+## Les codes de la table
 
 ![photo]()
 
