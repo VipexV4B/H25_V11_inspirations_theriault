@@ -1,6 +1,6 @@
 # Le banquet
 
-![photo]()
+![photo](../centre_des_sciences/medias/affiche.jpg)
 
 ## Centre des sciences
 
@@ -27,7 +27,9 @@ Lorsque nous répondont a ces questions celles-ci sont comparés avec les ancien
 
 ### Les composantes du dispositif
 
-![photo]()
+![photo](../centre_des_sciences/medias/table_dessus.jpg)
+![photo](../centre_des_sciences/medias/chaise_mise_en_expo.jpg)
+![photo](../centre_des_sciences/medias/lumiere.jpg)
 
 Les composantes du dispositif sont une table, des écrans, des lumière, des câble et des lumières.
 
