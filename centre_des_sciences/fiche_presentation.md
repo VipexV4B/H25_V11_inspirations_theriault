@@ -43,8 +43,9 @@ Lorsque nous répondont a ces questions celles-ci sont comparés avec les ancien
 Les composantes du dispositif sont une table, des écrans, des lumière, des câble et des lumières.
 
 ### Comment utiliser le dispositif
-
-<video scr="../centre_des_sciences/medias/MicrosoftTeams-video.mp4">
+<p align="center">
+<img src="../centre_des_sciences/medias/Image.jpeg"  width="400" height="500">
+</p>
 
 ### Ce qui ma plu
 
