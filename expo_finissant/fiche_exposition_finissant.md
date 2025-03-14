@@ -1,5 +1,5 @@
 # Expositon des finissants en technique multimédia (TIM)
-## Nom des projets créés par les finissants
+## Projets créés par les finissants
 
 
 ### CONDU8
@@ -30,43 +30,49 @@ Prismatica est une projection d'un dessin que l'on dessine sur une planche.
 
 Luminatura est une projection sur un mur d'onde coloré.
 
-
 # Description des projets
 
 ## CONDU8
-
-
+### Équipe
+Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté.
+<img src="" />
 
 
 
 ## Etheria
-
-
+### Équipe
+Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un Dupré, Pierre et Maïk Hamel
+<img src="" />
 
 
 
 ## Arcadia
-
-
+### Équipe
+Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nikulin.
+<img src="" />
 
 
 
 ## Fuga
-
-
-
+### Équipe
+Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, Abdel et Yavuz.
+<img src="" />
 
 
 ## Internature
-
-
+### Équipe
+Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
+<img src="" />
 
 
 
 ## Prismatica
-
-
-
+### Équipe
+Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy Duverseau.
+<img src="" />
 
 
 ## Luminatura
+### Équipe
+Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Prethiah et Ihab.
+<img src="" />
