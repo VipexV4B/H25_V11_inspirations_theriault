@@ -1,6 +1,6 @@
 # Expositon des finissants en technique multimédia (TIM)
 
-<img src="./expo_finissant/media/image.jfif" />
+<img src="../expo_finissant/media/resonance.jpg" />
 
 ## Projets créés par les finissants
 
