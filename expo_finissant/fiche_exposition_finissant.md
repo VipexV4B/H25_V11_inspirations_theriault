@@ -39,71 +39,71 @@ Luminatura est une projection sur un mur d'onde coloré.
 ### Équipe
 Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté.
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ### Description
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ## Etheria
 ### Équipe
 Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un Dupré, Pierre et Maïk Hamel
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ### Description
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ## Arcadia
 ### Équipe
 Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nikulin.
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ### Description
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ## Fuga
 ### Équipe
 Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, Abdel et Yavuz.
 
-<img src="" />
+<img src="../expo_finissant/media/fuga.jpg" />
 
 ### Description
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 
 ## Internature
 ### Équipe
 Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ### Description
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ## Prismatica
 ### Équipe
 Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy Duverseau.
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ### Description
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 
 ## Luminatura
 ### Équipe
 Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Prethiah et Ihab.
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
 ### Description
 
-<img src="" />
+<img src="../expo_finissant/media/" />
 
