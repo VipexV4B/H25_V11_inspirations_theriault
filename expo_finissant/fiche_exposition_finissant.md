@@ -1,4 +1,7 @@
 # Expositon des finissants en technique multimédia (TIM)
+
+<img src="./expo_finissant/media/image.jfif" />
+
 ## Projets créés par les finissants
 
 
