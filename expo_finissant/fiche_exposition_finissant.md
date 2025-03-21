@@ -44,6 +44,7 @@ Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gerv
 ### Description
 
 <img src="../expo_finissant/media/" />
+### Installation
 
 ## Etheria
 ### Équipe
@@ -55,6 +56,8 @@ Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un
 
 <img src="../expo_finissant/media/etheria_description.jpg" />
 
+### Installation
+
 ## Arcadia
 ### Équipe
 Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nikulin.
@@ -64,6 +67,8 @@ Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nik
 ### Description
 
 <img src="../expo_finissant/media/arcadia_description.jpg" />
+
+### Installation
 
 ## Fuga
 ### Équipe
@@ -75,6 +80,7 @@ Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, 
 
 <img src="../expo_finissant/media/fuga_description.jpg" />
 
+### Installation
 
 ## Internature
 ### Équipe
@@ -86,6 +92,8 @@ Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafar
 
 <img src="../expo_finissant/media/internature_description.jpg" />
 
+### Installation
+
 ## Prismatica
 ### Équipe
 Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy Duverseau.
@@ -96,6 +104,7 @@ Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy D
 
 <img src="../expo_finissant/media/prismatica_description.jpg" />
 
+### Installation
 
 ## Luminatura
 ### Équipe
@@ -107,3 +116,4 @@ Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Pre
 
 <img src="../expo_finissant/media/luminatura_description.jpg" />
 
+### Installation
