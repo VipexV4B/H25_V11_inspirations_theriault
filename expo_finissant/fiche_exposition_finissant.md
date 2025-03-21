@@ -35,44 +35,72 @@ Luminatura est une projection sur un mur d'onde coloré.
 ## CONDU8
 ### Équipe
 Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté.
+
 <img src="" />
 
+### Description
 
+<img src="" />
 
 ## Etheria
 ### Équipe
 Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un Dupré, Pierre et Maïk Hamel
+
 <img src="" />
 
+### Description
 
+<img src="" />
 
 ## Arcadia
 ### Équipe
 Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nikulin.
+
 <img src="" />
 
+### Description
 
+<img src="" />
 
 ## Fuga
 ### Équipe
 Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, Abdel et Yavuz.
+
+<img src="" />
+
+### Description
+
 <img src="" />
 
 
 ## Internature
 ### Équipe
 Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
+
 <img src="" />
 
+### Description
 
+<img src="" />
 
 ## Prismatica
 ### Équipe
 Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy Duverseau.
+
+<img src="" />
+
+### Description
+
 <img src="" />
 
 
 ## Luminatura
 ### Équipe
 Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Prethiah et Ihab.
+
 <img src="" />
+
+### Description
+
+<img src="" />
+
