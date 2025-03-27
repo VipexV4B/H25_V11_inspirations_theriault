@@ -39,16 +39,19 @@ Luminatura est une projection sur un mur d'onde coloré.
 ### Équipe
 Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté.
 
-<img src="../expo_finissant/media/condu8.jpg" />
+<img src="../expo_finissant/media/condu8.jpg" width="400px"/>
 
 ### Description
 
 <img src="../expo_finissant/media/" />
+
 ### Installation
 
-<img src="../expo_finissant/media/condu8_toit.jpg" />
-<img src="../expo_finissant/media/condu8_ordi.jpg" />
-<img src="../expo_finissant/media/condu8_velo.jpg" />
+<div display="flex">
+<img src="../expo_finissant/media/condu8_toit.jpg"  width="400px"/>
+<img src="../expo_finissant/media/condu8_ordi.jpg"  width="400px"/>
+<img src="../expo_finissant/media/condu8_velo.jpg"  width="400px"/>
+</div>
 
 ## Etheria
 ### Équipe
