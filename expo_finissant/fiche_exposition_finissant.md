@@ -1,6 +1,16 @@
 # Expositon des finissants en technique multimédia (TIM)
 
+## resonance
+
 <img src="../expo_finissant/media/resonance.jpg" />
+
+### Une photo de moi devant l'exposition
+
+<img src="../expo_finissant/media/moi.jpg" />
+
+### Date de ma visite
+
+18 mars 2025
 
 ## Projets créés par les finissants
 
@@ -66,7 +76,6 @@ Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un
 ### Installation
 
 <img src="../expo_finissant/media/etheria_toit.jpg" />
-<img src="../expo_finissant/media/" />
 
 ## Arcadia
 ### Équipe
@@ -80,8 +89,7 @@ Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nik
 
 ### Installation
 
-<img src="../expo_finissant/media/" />
-<img src="../expo_finissant/media/" />
+
 
 ## Fuga
 ### Équipe
@@ -95,8 +103,9 @@ Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, 
 
 ### Installation
 
-<img src="../expo_finissant/media/" />
-<img src="../expo_finissant/media/" />
+<img src="../expo_finissant/media/fuga_toit.jpg" />
+<img src="../expo_finissant/media/fuga_commande.jpg" />
+<img src="../expo_finissant/media/fuga_ecran.jpg" />
 
 ## Internature
 ### Équipe
@@ -110,8 +119,8 @@ Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafar
 
 ### Installation
 
-<img src="../expo_finissant/media/" />
-<img src="../expo_finissant/media/" />
+<img src="../expo_finissant/media/internature_dispositif.jpg" />
+<img src="../expo_finissant/media/internature_mur.jpg" />
 
 ## Prismatica
 ### Équipe
