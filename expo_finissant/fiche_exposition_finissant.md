@@ -43,14 +43,14 @@ Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gerv
 
 ### Description
 
-<img src="../expo_finissant/media/" />
+<img src="../expo_finissant/media/condu8_cartel.png" width="600px"/>
 
 ### Installation
 
-<div display="flex">
-<img src="../expo_finissant/media/condu8_toit.jpg"  width="400px"/>
-<img src="../expo_finissant/media/condu8_ordi.jpg"  width="400px"/>
-<img src="../expo_finissant/media/condu8_velo.jpg"  width="400px"/>
+<div display="flex" width="1000px">
+<img src="../expo_finissant/media/condu8_toit.jpg"  width="300px"/>
+<img src="../expo_finissant/media/condu8_ordi.jpg"  width="300px"/>
+<img src="../expo_finissant/media/condu8_velo.jpg"  width="300px"/>
 </div>
 
 ## Etheria
@@ -65,7 +65,7 @@ Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un
 
 ### Installation
 
-<img src="../expo_finissant/media/" />
+<img src="../expo_finissant/media/etheria_toit.jpg" />
 <img src="../expo_finissant/media/" />
 
 ## Arcadia
