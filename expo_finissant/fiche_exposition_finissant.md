@@ -57,7 +57,7 @@ Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gerv
 
 ### Ressentie personelle
 
-
+J'ai aimé le fait qu'un dispositif rejoigne l'activité physique et le jeu vidéo.
 
 ### Description
 
@@ -85,7 +85,7 @@ Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un
 
 ### Ressentie personelle
 
-
+Etheria est un jeu que j'ai grandement apprécié dans lequelle tu controle un personnage dont le but est de défendre la base au millieu du terrain.
 
 ### Description
 
@@ -109,7 +109,7 @@ Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nik
 
 ### Ressentie personelle
 
-
+J'ai apprécié Arcadia car j'adore le monde du jeu vidéo et cela rejoin ma passion.
 
 ### Description
 
@@ -131,7 +131,7 @@ Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, 
 
 ### Ressentie personelle
 
-
+J'ai apprécié Fuga car c'est un modelisateur d'arbre en direct et tu peux vraiment créer un arbre que tu aimes.
 
 ### Description
 
@@ -160,7 +160,7 @@ Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafar
 
 ### Ressentie personelle
 
-
+J'ai apprécié Internature car il y avait un monde immersif dans un tunnel et cela rendait le dispositif unique des autres.
 
 ### Description
 
@@ -187,7 +187,7 @@ Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy D
 
 ### Ressentie personelle
 
-
+Malheureusement, j'ai moins bien apprécié prismatica malgré que le projet en tant que telle avait de l'air sympatique, mais lorsque je l'ai tester, mon dessin ne s'est pas afficher.
 
 ### Description
 
@@ -209,7 +209,7 @@ Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Pre
 
 ### Ressentie personelle
 
-
+Luminatura est un projet que j'ai moins bien apprécié comme prismatica car le dispositif faisait pas grand chose. J'aurais apprécié d'être capable de bouger les particules sur le mur.
 
 ### Description
 
