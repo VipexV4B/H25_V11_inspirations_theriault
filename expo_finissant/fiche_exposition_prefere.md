@@ -25,6 +25,12 @@ J'ai grandement apprécié se dispositif car il réunissait le sport et les jeux
 <img src="../expo_finissant/media/condu8_velo.jpg" width="300px">
 <img src="../expo_finissant/media/condu8_toit.jpg" width="300px">
 </div>
-<img src="../expo_finissant/media/condu8_cartel.jpg" >
+<img src="../expo_finissant/media/condu8_cartel.png" width="300px">
+
+
+Photo prise par Pablo Pareira Calderon et Lucas Bonneau
+
 
 ### Schema d'installation
+
+<img src="../expo_finissant/media/.jpg" >
