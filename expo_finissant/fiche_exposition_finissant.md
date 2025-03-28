@@ -55,6 +55,10 @@ Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gerv
 
 <img src="../expo_finissant/media/condu8.jpg" width="400px"/>
 
+### Ressentie personelle
+
+
+
 ### Description
 
 <img src="../expo_finissant/media/condu8_cartel.png" width="600px"/>
@@ -69,11 +73,19 @@ Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gerv
 
 Les éléments utilisés par le dispositif Condu8 son: un tableau, un vélo, des cables, un capteur et un ordi.
 
+#### Schéma d'installation
+
+<img src="../expo_finissant/media/plantation.webp" />
+
 ## Etheria
 ### Équipe
 Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un Dupré, Pierre et Maïk Hamel
 
 <img src="../expo_finissant/media/etheria.jpg" />
+
+### Ressentie personelle
+
+
 
 ### Description
 
@@ -85,11 +97,19 @@ Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un
 
 Les éléments utilisés par le dispositif Etheria son: une table, des haut-parleurs, des cables, des lumières,un ordi, un projecteur et des capteurs.
 
+#### Schéma d'installation
+
+<img src="../expo_finissant/media/plantation-2025-02-10.jpg" />
+
 ## Arcadia
 ### Équipe
 Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nikulin.
 
 <img src="../expo_finissant/media/arcadia.jpg" />
+
+### Ressentie personelle
+
+
 
 ### Description
 
@@ -99,11 +119,19 @@ Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nik
 
 Les éléments utilisés par le dispositif Arcadia son: un ordi, un écran, des cables, un panneau d'arcade et une lumière.
 
+#### Schéma d'installation
+
+<img src="../expo_finissant/media/implantation.png" />
+
 ## Fuga
 ### Équipe
 Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, Abdel et Yavuz.
 
 <img src="../expo_finissant/media/fuga.jpg" />
+
+### Ressentie personelle
+
+
 
 ### Description
 
@@ -120,11 +148,19 @@ Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, 
 
 Les éléments utilisés par le dispositif Fuga son: des lumières, des écrans, un ordi et des cables.
 
+#### Schéma d'installation
+
+<img src="../expo_finissant/media/fuga-face.png" />
+
 ## Internature
 ### Équipe
 Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
 
 <img src="../expo_finissant/media/internature.jpg" />
+
+### Ressentie personelle
+
+
 
 ### Description
 
@@ -139,11 +175,19 @@ Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafar
 
 Les éléments utilisés par le dispositif internature son: des cables, un ordi, une boule, un capteur, des haut-parleur et une toile.
 
+#### Schéma d'installation
+
+<img src="../expo_finissant/media/90ad4387-c0ac-4689-8dfb-33ab11cd765d.png" />
+
 ## Prismatica
 ### Équipe
 Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy Duverseau.
 
 <img src="../expo_finissant/media/prismatica.jpg" />
+
+### Ressentie personelle
+
+
 
 ### Description
 
@@ -153,11 +197,19 @@ Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy D
 
 Les éléments utilisés par le dispositif Prismatica son: des cables, un ordi, un capteur, des crayons, un tableau, un écran et des haut-parleurs.
 
+#### Schéma d'installation
+
+<img src="../expo_finissant/media/plan1.jpg" />
+
 ## Luminatura
 ### Équipe
 Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Prethiah et Ihab.
 
 <img src="../expo_finissant/media/luminatura.jpg" />
+
+### Ressentie personelle
+
+
 
 ### Description
 
@@ -171,3 +223,17 @@ Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Pre
 </div>
 
 Les éléments utilisés par le dispositif Luminatura son: des cables, des projecteurs, un ordi, des capteurs, des lumières et des haut-parleurs.
+
+#### Schéma d'installation
+
+<img src="../expo_finissant/media/plantation_studio.jpg" />
+
+## Mon ressenti face a l'exposition
+
+### Ce qui m'as plus
+
+J'ai apprécié l'exposition malgré les problèmes tecniques qu'il y a eu lors de ma visite. Les différent dispositif explorait chacun un thème. Par exemple: la nature, le sport, le dessin, etc.
+
+### Ce que je retiendrais pour mon futur projet
+
+Pour mon futur projet, j'essayerais un maximum d'éviter les problèmes techniques lors de l'exposition, car cela gache l'expérience des visiteurs et parfois ils ne vont pas revenir pour retester le dispositif.
