@@ -3,6 +3,7 @@
 ## Nom Exposition de l'oeuvre
 
 <img src="../expo_finissant/media/resonance.jpg" >
+<img src="../expo_finissant/media/moi.jpg" >
 
 ## date de date l'exposition
 
@@ -18,7 +19,7 @@ J'ai grandement apprécié se dispositif car il réunissait le sport et les jeux
 
 
 ## Installation 
-
+Ce dispositif est un installation immersive.
 
 <div display="flex">
 <img src="../expo_finissant/media/condu8.jpg" width="300px">
@@ -34,3 +35,12 @@ Photo prise par Pablo Pareira Calderon et Lucas Bonneau
 ### Schema d'installation
 
 <img src="../expo_finissant/media/plantation.webp" >
+
+### Équipement
+
+Des cables, un ordinateur, une carte son, un projecteur, des haut-parleurs, un vélo staionnaire, un capteur et un tableau blanc.
+
+
+## Aspect a éviter
+
+Malheureusement, le dispositif a eu quelques problèmes sûrement a cause du capteur car c'est un des éléments essentiel du dispositif. Donc, j'éviterais d'avoir des capteurs sensibles qui peuvent être facilement défectueux ou en contact avec un élément physique.
