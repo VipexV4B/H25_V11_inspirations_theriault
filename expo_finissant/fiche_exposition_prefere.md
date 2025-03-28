@@ -20,7 +20,7 @@ J'ai grandement apprécié se dispositif car il réunissait le sport et les jeux
 ## Installation 
 
 
-<div>
+<div display="flex">
 <img src="../expo_finissant/media/condu8.jpg" width="300px">
 <img src="../expo_finissant/media/condu8_velo.jpg" width="300px">
 <img src="../expo_finissant/media/condu8_toit.jpg" width="300px">
