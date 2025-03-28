@@ -1,6 +1,6 @@
 # Expositon des finissants en technique multimédia (TIM)
 
-## resonance
+## Resonance
 
 <img src="../expo_finissant/media/resonance.jpg" />
 
@@ -11,6 +11,10 @@
 ### Date de ma visite
 
 18 mars 2025
+
+### Durée de l'exposition
+
+17 mars au 21 mars 2025
 
 ## Projets créés par les finissants
 
@@ -63,6 +67,8 @@ Leur équipe est composé de :Ian Corbin, Sanuel Desmeules Voyer, Alexandre Gerv
 <img src="../expo_finissant/media/condu8_velo.jpg"  width="300px"/>
 </div>
 
+Les éléments utilisés par le dispositif Condu8 son: un tableau, un vélo, des cables, un capteur et un ordi.
+
 ## Etheria
 ### Équipe
 Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un Dupré, Pierre et Maïk Hamel
@@ -77,6 +83,8 @@ Les personnes ayant réaliser ce projet sont: Joshua , Victor Gileau, Michael Un
 
 <img src="../expo_finissant/media/etheria_toit.jpg" />
 
+Les éléments utilisés par le dispositif Etheria son: une table, des haut-parleurs, des cables, des lumières,un ordi, un projecteur et des capteurs.
+
 ## Arcadia
 ### Équipe
 Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nikulin.
@@ -89,7 +97,7 @@ Les créateur de se jeu vidéo sont: Dominic Yale, William Beauvais et Anton Nik
 
 ### Installation
 
-
+Les éléments utilisés par le dispositif Arcadia son: un ordi, un écran, des cables, un panneau d'arcade et une lumière.
 
 ## Fuga
 ### Équipe
@@ -103,9 +111,14 @@ Les concepteurs de ce dispositif de modélisation sont: Matis, Tristan, Daniel, 
 
 ### Installation
 
-<img src="../expo_finissant/media/fuga_toit.jpg" />
-<img src="../expo_finissant/media/fuga_commande.jpg" />
-<img src="../expo_finissant/media/fuga_ecran.jpg" />
+
+<div display="flex" width="1200px">
+<img src="../expo_finissant/media/fuga_toit.jpg" width="300px"/>
+<img src="../expo_finissant/media/fuga_commande.jpg" width="300px"/>
+<img src="../expo_finissant/media/fuga_ecran.jpg" width="300px"/>
+</div>
+
+Les éléments utilisés par le dispositif Fuga son: des lumières, des écrans, un ordi et des cables.
 
 ## Internature
 ### Équipe
@@ -119,8 +132,12 @@ Les personnes ayant réaliser ce géant tunnel sont: Khaly Tia Sing, Isaac Fafar
 
 ### Installation
 
+<div display="flex" width="1000px">
 <img src="../expo_finissant/media/internature_dispositif.jpg" />
 <img src="../expo_finissant/media/internature_mur.jpg" />
+</div>
+
+Les éléments utilisés par le dispositif internature son: des cables, un ordi, une boule, un capteur, des haut-parleur et une toile.
 
 ## Prismatica
 ### Équipe
@@ -134,8 +151,7 @@ Les créateurs de se dispositif sont: Vincent Delisle, Ikrame Rata et Jérémy D
 
 ### Installation
 
-<img src="../expo_finissant/media/" />
-<img src="../expo_finissant/media/" />
+Les éléments utilisés par le dispositif Prismatica son: des cables, un ordi, un capteur, des crayons, un tableau, un écran et des haut-parleurs.
 
 ## Luminatura
 ### Équipe
@@ -149,5 +165,9 @@ Les réalisateurs de cette projection murale sont: Audrey, Justine, Camilia, Pre
 
 ### Installation
 
-<img src="../expo_finissant/media/" />
-<img src="../expo_finissant/media/" />
+<div display="flex" width="1000px">
+<img src="../expo_finissant/media/luminatura_audio.jpg" />
+<img src="../expo_finissant/media/luminatura_toit.jpg" />
+</div>
+
+Les éléments utilisés par le dispositif Luminatura son: des cables, des projecteurs, un ordi, des capteurs, des lumières et des haut-parleurs.
