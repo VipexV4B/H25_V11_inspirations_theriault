@@ -33,4 +33,4 @@ Photo prise par Pablo Pareira Calderon et Lucas Bonneau
 
 ### Schema d'installation
 
-<img src="../expo_finissant/media/.jpg" >
+<img src="../expo_finissant/media/plantation.webp" >
