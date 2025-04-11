@@ -8,8 +8,10 @@ Sans elle ou une personne comme elle, les expositions dans des musées ne serait
 
 Deux personnes dans le dispositif <i>Sphere Packing: Bach</i>, source (https://www.lozano-hemmer.com/artworks/sphere_packing_bach.php)
 
-Elle aussi parler des problèmes qu'ils ont eu avec le dispositif <i>Shadow Tuner</i> un gros ballon qui représente la terre au milieu d'une île. 
+Elle aussi parler des problèmes qu'ils ont eu avec le dispositif <i>Shadow Tuner</i>, un gros ballon qui représente la terre au milieu d'une île. Il y a plusieurs projecteurs qui projectait une images de la terre sur le ballon. Les problèmes qu'elle a pu évoquer lors de la conférence pour cette oeuvre sont: la grosseur du ballon, la température, le terrain, le vent et la localisation sur le ballon.
 
-<img src="./media/.jpeg" >
+<img src="./media/earth.jpg" width="200px">
+
+<i>Shadow Tuner</i> au milieu d'une île, source (https://www.lozano-hemmer.com/shadow_tuner.php)
 
 Finalement j'ai apprécié la conférence car nous avons pu avoir une connaissance un peu plus approfondie dans le thème de l'art. On a constater tout les métier et role de L'environnement des arts se qui donne un aspect différent des autres conférences.
