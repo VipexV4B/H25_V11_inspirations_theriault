@@ -8,4 +8,8 @@ Sans elle ou une personne comme elle, les expositions dans des musées ne serait
 
 Deux personnes dans le dispositif <i>Sphere Packing: Bach</i>, source (https://www.lozano-hemmer.com/artworks/sphere_packing_bach.php)
 
+Elle aussi parler des problèmes qu'ils ont eu avec le dispositif <i>Shadow Tuner</i> un gros ballon qui représente la terre au milieu d'une île. 
+
+<img src="./media/.jpeg" >
+
 Finalement j'ai apprécié la conférence car nous avons pu avoir une connaissance un peu plus approfondie dans le thème de l'art. On a constater tout les métier et role de L'environnement des arts se qui donne un aspect différent des autres conférences.
