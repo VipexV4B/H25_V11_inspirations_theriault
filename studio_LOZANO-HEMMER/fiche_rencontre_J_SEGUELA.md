@@ -20,4 +20,4 @@ Elle aussi parler des problèmes qu'ils ont eu avec le dispositif <i>Shadow Tune
 </div>
 
 
-Finalement j'ai apprécié la conférence car nous avons pu avoir une connaissance un peu plus approfondie dans le thème de l'art. On a constater tout les métier et role de L'environnement des arts se qui donne un aspect différent des autres conférences.
+Finalement j'ai apprécié la conférence car nous avons pu avoir une connaissance un peu plus approfondie dans le thème de l'art. On a constater tout les métier et role de l'environnement des arts se qui donne un aspect différent des autres conférences.
