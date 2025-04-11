@@ -6,4 +6,6 @@ Sans elle ou une personne comme elle, les expositions dans des musées ne serait
 
 <img src="./media/sphere.jpeg" >
 
-Finalement j'ai apprécié la conférence car nous avons pu avoir une connaissance un peu plus approfondie dans le thème de l'art. On a constater tout les métier et role de L,environnement des arts se qui donne un aspect différent des autres conférences.
+source (https://www.lozano-hemmer.com/artworks/sphere_packing_bach.php)
+
+Finalement j'ai apprécié la conférence car nous avons pu avoir une connaissance un peu plus approfondie dans le thème de l'art. On a constater tout les métier et role de L'environnement des arts se qui donne un aspect différent des autres conférences.
