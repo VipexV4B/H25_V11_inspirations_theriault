@@ -1,9 +1,3 @@
 # Studio Lozano Hemmer
 
-## Date de la conférence
-
-mardi 25 mars
-
-## Ressenti de la présentation
-
-J'ai aimé la présentation, 
+Lors de la conférence on a apprit l'arrière du décor d'une entreprise ou d'un groupe dans la réalisation d'art. Il y a eu lors de la conférence la description de tout les métiers qu'il doit être nécessaire pour toute leur réalisation. Le role le plus nécessaire dans le millieu des arts est celui de Madame Seguela (la présentatrice de la conférence) ,car sans elle ou une personne comme elle, les expositions dans des musées ne serait pas possible. Son travail consiste a compté toute les pièces de l'oeuvre, les classés, séparé les compartiments de l'oeuvre pour des expéditions. Par exemple, elle a parlé lors de sa conférence d'une exposition appelé Antimodular. Le dispositif est une boule muni de plusieurs haut-parleurs qui joue tout les pièces d'un artiste
