@@ -2,7 +2,7 @@
 
 ## Sujet de l'exposition
 
-### titre du dispositif
+### Titre du dispositif
 
 Les mixtapes
 
