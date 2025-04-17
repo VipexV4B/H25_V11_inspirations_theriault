@@ -32,8 +32,6 @@ gratuit
 
 Durée: 1h30
 
-
-
 ### Type d'exposition 
 L'expositon est auditif et temporaire.
 
