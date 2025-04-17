@@ -24,7 +24,13 @@ Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc
 
 ## Information
 
-### 
+### Cout
+
+gratuit
+
+### Duré de l'exposition
+
+Durée: 1h30
 
 
 
@@ -34,13 +40,6 @@ L'expositon est auditif et temporaire.
 ### Date de visite
 
 Visite le 21 février.
-
-
-
-
-
-
-
 
 
 ## Comment c'est passer l'exposition
