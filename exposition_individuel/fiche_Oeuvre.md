@@ -46,7 +46,11 @@ Visite le 21 février.
 ## Comment c'est passer l'exposition
 
 ### Accueil
-Une madame nous explique qui était Jean Marc Vallé. Elle a aussi parler des 3 dispositifs pour pouvoir mieux les comprendres. Puis elle nous laisse allé exploré la première exposition Prélude. 
+Une madame nous explique qui était Jean Marc Vallé. Elle a aussi parler des 3 dispositifs pour pouvoir mieux les comprendres. 
+
+### Durant
+
+Puis elle nous laisse allé exploré la première exposition Prélude. 
 
 <img src="../exposition_individuel/medias/" >
 
@@ -58,5 +62,10 @@ Après le court métrage il y avait l'exposition principale Mixtape.
 
 <img src="../exposition_individuel/medias/" >
 
+### Fin
+
+Un grand mur présentait toute les aventures de Jean Marc Vallé. 
+
+<img src="../exposition_individuel/medias/" >
 
 
