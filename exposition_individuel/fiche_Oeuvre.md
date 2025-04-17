@@ -26,6 +26,8 @@ Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc
 
 ### 
 
+
+
 ### Type d'exposition 
 L'expositon est auditif et temporaire.
 
