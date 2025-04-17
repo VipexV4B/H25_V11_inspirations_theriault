@@ -10,7 +10,7 @@ Les mixtapes
 
 #### C'est quoi une mixtape
 
-Une mixtape c'est une piste audio qui nous exolique se qui influencait Jean Marc Vallé. 
+Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc Vallé lors de ses créations. 
 
 #### A quoi ressemblait l'oeuvre
 
