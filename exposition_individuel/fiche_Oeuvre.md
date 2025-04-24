@@ -1,68 +1,31 @@
 # Exposition Individuel de Jean Marc Vallé | Mixtape
 
-## Sujet de l'exposition
-
-### Titre du dispositif
-
-Les mixtapes
-
-<img src="../exposition_individuel/medias/" >
-
-#### C'est quoi une mixtape
-
-Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc Vallé lors de ses créations. 
-
-#### A quoi ressemblait l'oeuvre
-
-<img src="../exposition_individuel/medias/" >
-
-<img src="../exposition_individuel/medias/" >
-
-<img src="../exposition_individuel/medias/" >
-
-<img src="../exposition_individuel/medias/" >
-
-## Information
-
-### Cout
-
-gratuit
-
-### Duré de l'exposition
-
-Durée: 1h30
-
-### Type d'exposition 
-L'expositon est auditif et temporaire.
 
 ### Date de visite
 
 Visite le 21 février.
 
 
-## Comment c'est passer l'exposition
+## Exposition
 
-### Accueil
-Une madame nous explique qui était Jean Marc Vallé. Elle a aussi parler des 3 dispositifs pour pouvoir mieux les comprendres. 
+Une madame nous explique qui était Jean Marc Vallé. Elle a aussi parler des 3 dispositifs pour pouvoir mieux les comprendres. Puis elle nous laisse allé exploré la première exposition Prélude. Par la suite nous avons pu regardé un petit court métrage sur la jeunesse de Jean Marc Vallé. 
 
-### Durant
+#### Mixtape
 
-Puis elle nous laisse allé exploré la première exposition Prélude. 
+Après le court métrage il y avait l'exposition principale Mixtape. Une madame nous explique qui était Jean Marc Vallé. Elle a aussi parler des 3 dispositifs pour pouvoir mieux les comprendres. L'expositon est auditif et temporaire. Un grand mur présentait toute les aventures de Jean Marc Vallé. 
 
-<img src="../exposition_individuel/medias/" >
+### Description du dispositif
 
-Par la suite nous avons pu regardé un petit court métrage sur la jeunesse de Jean Marc Vallé.
-
-<img src="../exposition_individuel/medias/" >
-
-Après le court métrage il y avait l'exposition principale Mixtape.
+Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc Vallé lors de ses créations. 
 
 <img src="../exposition_individuel/medias/" >
 
-### Fin
-
-Un grand mur présentait toute les aventures de Jean Marc Vallé. 
+### Installation
 
 <img src="../exposition_individuel/medias/" >
 
+Les éléments utilisés par le dispositif son: un casque, un projecteur, un mixeur audio, des chaise, un ordi.
 
+### Ressentie personelle
+
+Je n'ai pas aimer le dispositif car se n'est pas mon genre de dispositif que j'aime.
