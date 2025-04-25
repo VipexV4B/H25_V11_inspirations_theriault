@@ -1,10 +1,10 @@
 # Nom de l'exposition
 
-Musée des beaux art de montréal
+Musée des beaux arts Montréal
 
 ## Lieu de mise en exposition
 
-Musée des beaux art de montréal
+Musée des beaux arts Montréal
 
 ### Type d'exposition
 
@@ -35,9 +35,11 @@ Graeme Patterson
 
 C'est un dispositif qui est contemplative.
 
+<img src="../expo_MBAM/medias">
+
 ##### Mise en espace
 
-
+<img src="../expo_MBAM/medias">
 
 ##### Composantes et techniques
 
@@ -47,7 +49,11 @@ C'est un dispositif qui est contemplative.
 <img src="../expo_MBAM/medias/">
 
 #### Éléments nécessaires à la mise en exposition
-
+<div display="flex">
+<img src="../expo_MBAM/medias">
+<img src="../expo_MBAM/medias">
+<img src="../expo_MBAM/medias">
+</div>
 Les éléments nécessaires a la mise en exposition son: des cables, des projecteur, du bois, un bus miniature, une salle pour exposer le dispositif, du carton, des tissus, des haut-parleurs et des banc.
 
 #### Expérience vécue
