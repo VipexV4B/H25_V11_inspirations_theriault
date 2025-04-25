@@ -36,4 +36,4 @@ Les éléments utilisés par le dispositif son: un casque, un projecteur, un mix
 
 ### Appréciation
 
-Je n'ai pas aimer le dispositif car se n'est pas mon genre de dispositif que j'aime, car je ne suis pas une personne qui écoute beaucoup. L'exposition est adapté au personne qui aime écouter.
+Je n'ai pas aimer le dispositif car se n'est pas mon genre de dispositif que j'aime, car je ne suis pas une personne qui écoute beaucoup. Je pense que l'exposition est adapté au personne qui aime écouter.
