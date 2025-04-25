@@ -20,6 +20,10 @@ J'ai pu aller visiter le musée des beaux arts de Montréal le 4 avril 2025. J'a
 
 <img src="../expo_MBAM/medias/banc.jpg" width="400px" height="300px">
 
+<img src="../expo_MBAM/medias/vue_ensemble_oeuvre.jpg" width="400px" height="300px">
+
+<i>Plan créer par Pablo Pareira Calderon</i>
+
 </div>
 
 Le dispositif est seul au millieu d'une pièce avec un toit très haut. Il y a des bancs pour qu'on puisse s'assoir, sa nous sert a pouvoir contempler le dispositif.
