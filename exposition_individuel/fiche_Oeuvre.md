@@ -34,6 +34,6 @@ Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc
 
 Les éléments utilisés par le dispositif son: un casque, un projecteur, un mixeur audio, des chaise, un ordi.
 
-### Ressentie personelle
+### Appréciation
 
 Je n'ai pas aimer le dispositif car se n'est pas mon genre de dispositif que j'aime, car je ne suis pas une personne qui écoute beaucoup. L'exposition est adapté au personne qui aime écouter.
