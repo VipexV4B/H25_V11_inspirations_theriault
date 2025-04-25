@@ -1,5 +1,6 @@
 # Exposition Individuel de Jean Marc Vallé | Mixtape
 
+<img src="../exposition_individuel/medias/jean-marc-valle.jpg" width="400px" >
 
 ### Date de visite
 
