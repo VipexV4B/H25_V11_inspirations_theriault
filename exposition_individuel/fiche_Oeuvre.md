@@ -18,13 +18,18 @@ Après le court métrage il y avait l'exposition principale Mixtape. Une madame 
 
 Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc Vallé lors de ses créations. 
 
-<img src="../exposition_individuel/medias/" >
+<img src="../exposition_individuel/medias/info_mixtape.jpg" width="400px" >
 
 ### Installation
 
+<div display="flex" align="center">
 <img src="../exposition_individuel/medias/ecouteur.jpg" >
 <img src="../exposition_individuel/medias/mixeur.jpg" >
+</div>
+
+<div align="center">  
 <img src="../exposition_individuel/medias/titre_projeté.jpg" >
+</div>
 
 Les éléments utilisés par le dispositif son: un casque, un projecteur, un mixeur audio, des chaise, un ordi.
 
