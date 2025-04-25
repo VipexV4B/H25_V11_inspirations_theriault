@@ -22,7 +22,9 @@ Une mixtape c'est une piste audio qui nous explique se qui influencait Jean Marc
 
 ### Installation
 
-<img src="../exposition_individuel/medias/" >
+<img src="../exposition_individuel/medias/ecouteur.jpg" >
+<img src="../exposition_individuel/medias/mixeur.jpg" >
+<img src="../exposition_individuel/medias/titre_projeté.jpg" >
 
 Les éléments utilisés par le dispositif son: un casque, un projecteur, un mixeur audio, des chaise, un ordi.
 
