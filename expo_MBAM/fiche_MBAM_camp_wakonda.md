@@ -29,30 +29,31 @@ Graeme Patterson
 
 #### Description de l'oeuvre
 
-<img src="../expo_MBAM/medias/">
+<img src="../expo_MBAM/medias/cartel.jpg">
 
 #### Type d'installation 
 
 C'est un dispositif qui est contemplative.
 
-<img src="../expo_MBAM/medias">
+<img src="../expo_MBAM/medias/">
 
 ##### Mise en espace
 
-<img src="../expo_MBAM/medias">
+<img src="../expo_MBAM/medias/dispositif.jpg">
 
 ##### Composantes et techniques
 
-<img src="../expo_MBAM/medias/">
-<img src="../expo_MBAM/medias/">
-<img src="../expo_MBAM/medias/">
-<img src="../expo_MBAM/medias/">
+<img src="../expo_MBAM/medias/maison1.jpg">
+<img src="../expo_MBAM/medias/maison2.jpg">
+<img src="../expo_MBAM/medias/maison3.jpg">
+<img src="../expo_MBAM/medias/bus.jpg">
 
 #### Éléments nécessaires à la mise en exposition
 <div display="flex">
-<img src="../expo_MBAM/medias">
-<img src="../expo_MBAM/medias">
-<img src="../expo_MBAM/medias">
+<img src="../expo_MBAM/medias/ecran.jpg">
+<img src="../expo_MBAM/medias/projecteur.jpg">
+<img src="../expo_MBAM/medias/toit.jpg">
+<img src="../expo_MBAM/medias/banc.jpg">
 </div>
 Les éléments nécessaires a la mise en exposition son: des cables, des projecteur, du bois, un bus miniature, une salle pour exposer le dispositif, du carton, des tissus, des haut-parleurs et des banc.
 
