@@ -41,6 +41,14 @@ C'est un dispositif qui est contemplative.
 
 <img src="../expo_MBAM/medias/dispositif.jpg">
 
+<div display="flex">
+
+<img src="../expo_MBAM/medias/toit.jpg" width="400px" height="300px">
+
+<img src="../expo_MBAM/medias/banc.jpg" width="400px" height="300px">
+
+</div>
+
 Le dispositif est seul au millieu d'une pièce avec un toit très haut.
 
 ##### Composantes et techniques
@@ -57,8 +65,6 @@ Le dispositif est seul au millieu d'une pièce avec un toit très haut.
 <div display="flex">
 <img src="../expo_MBAM/medias/ecran.jpg" width="400px" height="300px">
 <img src="../expo_MBAM/medias/projecteur.jpg" width="400px" height="300px">
-<img src="../expo_MBAM/medias/toit.jpg" width="400px" height="300px">
-<img src="../expo_MBAM/medias/banc.jpg" width="400px" height="300px">
 </div>
 
 Les éléments nécessaires a la mise en exposition son: des cables, des projecteur, du bois, un bus miniature, une salle pour exposer le dispositif, du carton, des tissus, des haut-parleurs et des banc.
