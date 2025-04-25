@@ -4,19 +4,13 @@ Musée des beaux arts Montréal
 
 ## Information
 
-J'ai pu aller visiter le musée des beaux arts de Montréal le 4 avril. J'ai pu regarder le dispositif camp wakonda crée par Graeme Wakonda en 2013. Le dispositif est situé a l'intérieur du bâtiment. 
+J'ai pu aller visiter le musée des beaux arts de Montréal le 4 avril 2025. J'ai pu regarder le dispositif camp wakonda crée par Graeme Wakonda en 2013. Le dispositif est situé a l'intérieur du bâtiment. 
 
-#### Description de l'oeuvre
+### Description de l'oeuvre
 
 <img src="../expo_MBAM/medias/cartel.jpg">
 
-#### Type d'installation 
-
-C'est un dispositif qui est contemplative.
-
-<img src="../expo_MBAM/medias/">
-
-##### Mise en espace
+### Mise en espace
 
 <img src="../expo_MBAM/medias/dispositif.jpg">
 
@@ -30,7 +24,7 @@ C'est un dispositif qui est contemplative.
 
 Le dispositif est seul au millieu d'une pièce avec un toit très haut. Il y a des bancs pour qu'on puisse s'assoir, sa nous sert a pouvoir contempler le dispositif.
 
-##### Composantes et techniques
+#### Composantes et techniques
 
 <div display="flex">
 <img src="../expo_MBAM/medias/maison1.jpg" width="400px" height="300px">
@@ -38,6 +32,8 @@ Le dispositif est seul au millieu d'une pièce avec un toit très haut. Il y a d
 <img src="../expo_MBAM/medias/maison3.jpg" width="400px" height="300px">
 <img src="../expo_MBAM/medias/bus.jpg" width="400px" height="300px">
 </div>
+
+Lorsque nous rentrons dans la pièce, il y a une maison en haut a gauche, une autre en haut a droite, une derière celle de droite et un bus au millieu du dispositif.
 
 #### Éléments nécessaires à la mise en exposition
 
