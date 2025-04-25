@@ -1,31 +1,10 @@
-# Nom de l'exposition
+# Lieu de mise en exposition
 
 Musée des beaux arts Montréal
 
-## Lieu de mise en exposition
+## Information
 
-Musée des beaux arts Montréal
-
-### Type d'exposition
-
-Temporaire et il est en intérieur
-
-### Date de votre visite
-
-Vendredi 4 avril 2025
-
-### Titre de l'oeuvre choisie
-
-Camp Wakonda
-
-
-#### Nom de l'artiste
-
-Graeme Patterson
-
-#### Année de réalisation
-
-2013
+J'ai pu aller visiter le musée des beaux arts de Montréal le 4 avril. J'ai pu regarder le dispositif camp wakonda crée par Graeme Wakonda en 2013. Le dispositif est situé a l'intérieur du bâtiment. 
 
 #### Description de l'oeuvre
 
@@ -49,7 +28,7 @@ C'est un dispositif qui est contemplative.
 
 </div>
 
-Le dispositif est seul au millieu d'une pièce avec un toit très haut.
+Le dispositif est seul au millieu d'une pièce avec un toit très haut. Il y a des bancs pour qu'on puisse s'assoir, sa nous sert a pouvoir contempler le dispositif.
 
 ##### Composantes et techniques
 
