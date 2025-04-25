@@ -13,4 +13,5 @@ Le dispositif présenté ne ressemblait a aucun des dispositif qu'on a pu voir e
 
 # Conclusion
 
-C'était un expérience que je n'ai pas aimé 
+C'était un expérience que je n'ai pas aimé. Je le conseil au personne qui aime les podcasts.
+Ce que j'ai retenu de l'exposition est que je me suis ennuyer.
